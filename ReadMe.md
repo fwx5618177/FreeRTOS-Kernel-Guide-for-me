@@ -4,4 +4,4 @@ FreeRTOS kernel 翻译计划
 
 # FreeRTOS
 
-- [ ] Mastering thw FreeRTOS Real Time Kernel
+- [ ] Mastering the FreeRTOS Real Time Kernel
